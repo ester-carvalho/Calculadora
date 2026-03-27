@@ -12,7 +12,7 @@ def main():
     y = int(input('y?'))
     s = soma(x, y)
     sb = subtracao(x, y)
-    print(f'soma ={s}')
+    print(f'soma da alegria ={s}')
     sb = subtracao(x, y)
     print(f'subtracao ={sb}')
     m = multiplicacao(x, y)
